@@ -18,12 +18,12 @@ export default function LandingPage() {
     <ThemeProvider
         defaultButtonVariant="directional-hover"
         defaultTextAnimation="reveal-blur"
-        borderRadius="rounded"
-        contentWidth="mediumSmall"
-        sizing="largeSmallSizeLargeTitles"
+        borderRadius="pill"
+        contentWidth="medium"
+        sizing="mediumLargeSizeLargeTitles"
         background="blurBottom"
-        cardStyle="outline"
-        primaryButtonStyle="shadow"
+        cardStyle="soft-shadow"
+        primaryButtonStyle="radial-glow"
         secondaryButtonStyle="glass"
         headingFontWeight="extrabold"
     >
@@ -232,7 +232,8 @@ export default function LandingPage() {
         {
           id: "faq3",          title: "What types of pediatric services do you offer? ",          content: "We offer comprehensive pediatric care including routine check-ups, vaccinations, treatment for common childhood illnesses, and developmental assessments."},
         {
-          id: "faq4",          title: "How quickly can I get my diagnostic reports?",          content: "We strive for fast report delivery. Most routine reports are available within 24-48 hours, with urgent cases prioritized. You will be notified when your reports are ready."}
+          id: "faq4",          title: "How quickly can I get my diagnostic reports?",          content: "We strive for fast report delivery. Most routine reports are available within 24-48 hours, with urgent cases prioritized. You will be notified when your reports are ready."
+        }
       ]}
       sideTitle="Common Questions"
       sideDescription="Find quick answers to the most frequently asked questions about our services, appointments, and procedures."
