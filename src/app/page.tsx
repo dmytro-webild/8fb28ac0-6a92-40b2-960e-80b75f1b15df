@@ -186,9 +186,9 @@ export default function LandingPage() {
         },
         {
           title: "Fast Reports",          description: "Timely and efficient delivery of diagnostic reports for quick treatment decisions.",          phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg",            imageAlt: "Fast Reports image 1"},
+            imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg?_wi=1",            imageAlt: "Fast Reports image 1"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-roommates-together_23-2149103348.jpg",            imageAlt: "Fast Reports image 2"}
+            imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-roommates-together_23-2149103348.jpg?_wi=1",            imageAlt: "Fast Reports image 2"}
         }
       ]}
       showStepNumbers={false}
@@ -206,9 +206,9 @@ export default function LandingPage() {
         {
           id: "1",          name: "Rina Sharma",          handle: "@rinasharma",          testimonial: "The diagnostic services here are top-notch. Fast, accurate, and the staff is incredibly supportive. Highly recommend Pawara Diagnostic!",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-female-doctor-holding-stethoscope_268835-944.jpg",          imageAlt: "Rina Sharma"},
         {
-          id: "2",          name: "Amit Patel",          handle: "@amitpatel",          testimonial: "Dr. Sheetal is an amazing pediatrician. My kids love visiting her, and I always feel confident in the care they receive.",          imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg",          imageAlt: "Amit Patel"},
+          id: "2",          name: "Amit Patel",          handle: "@amitpatel",          testimonial: "Dr. Sheetal is an amazing pediatrician. My kids love visiting her, and I always feel confident in the care they receive.",          imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg?_wi=2",          imageAlt: "Amit Patel"},
         {
-          id: "3",          name: "Priya Singh",          handle: "@priyasingh",          testimonial: "From X-rays to Sonography, the technology is advanced, and the reports are delivered promptly. A truly reliable diagnostic centre.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-roommates-together_23-2149103348.jpg",          imageAlt: "Priya Singh"},
+          id: "3",          name: "Priya Singh",          handle: "@priyasingh",          testimonial: "From X-rays to Sonography, the technology is advanced, and the reports are delivered promptly. A truly reliable diagnostic centre.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-roommates-together_23-2149103348.jpg?_wi=2",          imageAlt: "Priya Singh"},
         {
           id: "4",          name: "Sanjay Kumar",          handle: "@sanjaykumar",          testimonial: "Dr. Jagadish is an expert in his field. His precise diagnosis made a significant difference in my treatment plan. Thank you!",          imageSrc: "http://img.b2bpic.net/free-photo/doctor-doing-their-work-pediatrics-office_23-2149224129.jpg",          imageAlt: "Sanjay Kumar"},
         {
