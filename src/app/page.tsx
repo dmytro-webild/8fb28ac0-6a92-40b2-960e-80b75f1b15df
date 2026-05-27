@@ -78,7 +78,7 @@ export default function LandingPage() {
           href: "https://www.google.com/maps/search/Pawara+Diagnostic+%26+Children+Care+Centre+Shirpur",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-117924.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-117924.jpg?_wi=1"
       showBlur={true}
       textPosition="bottom"
       testimonials={[
@@ -167,7 +167,7 @@ export default function LandingPage() {
           icon: LifeBuoy,
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/portrait-hospital-receptionist-standing-front-desk_482257-131181.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/portrait-hospital-receptionist-standing-front-desk_482257-131181.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -182,14 +182,14 @@ export default function LandingPage() {
         {
           id: "jagadish-pawara",
           name: "Dr. Jagadish Kitaram Pawara",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-doctor-with-stethoscope-clinic_1303-19762.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-doctor-with-stethoscope-clinic_1303-19762.jpg?_wi=1",
           imageAlt: "Dr. Jagadish Kitaram Pawara",
           description: "MBBS, MD Radiodiagnosis (Mumbai)\nConsultant Radiologist\nSonography, Doppler, X-Ray, CT Scan, MRI Expert\nRegistration No. 2016/07/2095",
         },
         {
           id: "sheetal-pawara",
           name: "Dr. Sheetal Jagadish Pawara",
-          imageSrc: "http://img.b2bpic.net/free-photo/healthcare-concept-clinic_23-2151117871.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/healthcare-concept-clinic_23-2151117871.jpg?_wi=1",
           imageAlt: "Dr. Sheetal Jagadish Pawara",
           description: "MBBS, MD Pediatrics (Gwalior)\nConsultant Pediatrician\nChild Specialist",
         },
@@ -215,7 +215,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/modern-ultrasound-scanner-clinic_7502-8375.jpg",
             imageAlt: "Sonography image 2",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-117924.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-117924.jpg?_wi=2",
           imageAlt: "sonography machine ultrasound scan display",
         },
         {
@@ -229,7 +229,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/nurse-taking-notes-x-ray-room_107420-64796.jpg",
             imageAlt: "Doppler image 2",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-hospital-receptionist-standing-front-desk_482257-131181.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-hospital-receptionist-standing-front-desk_482257-131181.jpg?_wi=2",
           imageAlt: "sonography machine ultrasound scan display",
         },
         {
@@ -243,7 +243,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/young-hispanic-doctor-man-looking-xray-working-clinic_839833-10382.jpg",
             imageAlt: "Digital X-Ray image 2",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-doctor-with-stethoscope-clinic_1303-19762.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-doctor-with-stethoscope-clinic_1303-19762.jpg?_wi=2",
           imageAlt: "sonography machine ultrasound scan display",
         },
         {
@@ -257,7 +257,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/young-woman-with-ecography-tablet_23-2147859242.jpg",
             imageAlt: "Obstetric Scan image 2",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/healthcare-concept-clinic_23-2151117871.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/healthcare-concept-clinic_23-2151117871.jpg?_wi=2",
           imageAlt: "sonography machine ultrasound scan display",
         },
         {
@@ -299,21 +299,21 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-female-doctor-wearing-medical-robe-stethoscope-sitting-desk-with-medical-tools-laptop-holding-clock-looking-pointing-up-isolated-pink-wall_141793-59334.jpg",
             imageAlt: "Pediatric Care image 2",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-female-doctor-holding-stethoscope_268835-944.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-female-doctor-holding-stethoscope_268835-944.jpg?_wi=1",
           imageAlt: "sonography machine ultrasound scan display",
         },
         {
           title: "Fast Reports",
           description: "Timely and efficient delivery of diagnostic reports for quick treatment decisions.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg?_wi=1",
             imageAlt: "Fast Reports image 1",
           },
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-roommates-together_23-2149103348.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-roommates-together_23-2149103348.jpg?_wi=1",
             imageAlt: "Fast Reports image 2",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/doctor-doing-their-work-pediatrics-office_23-2149224129.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/doctor-doing-their-work-pediatrics-office_23-2149224129.jpg?_wi=1",
           imageAlt: "sonography machine ultrasound scan display",
         },
       ]}
@@ -334,7 +334,7 @@ export default function LandingPage() {
           name: "Rina Sharma",
           handle: "@rinasharma",
           testimonial: "The diagnostic services here are top-notch. Fast, accurate, and the staff is incredibly supportive. Highly recommend Pawara Diagnostic!",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-female-doctor-holding-stethoscope_268835-944.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-female-doctor-holding-stethoscope_268835-944.jpg?_wi=2",
           imageAlt: "Rina Sharma",
         },
         {
@@ -342,7 +342,7 @@ export default function LandingPage() {
           name: "Amit Patel",
           handle: "@amitpatel",
           testimonial: "Dr. Sheetal is an amazing pediatrician. My kids love visiting her, and I always feel confident in the care they receive.",
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg?_wi=2",
           imageAlt: "Amit Patel",
         },
         {
@@ -350,7 +350,7 @@ export default function LandingPage() {
           name: "Priya Singh",
           handle: "@priyasingh",
           testimonial: "From X-rays to Sonography, the technology is advanced, and the reports are delivered promptly. A truly reliable diagnostic centre.",
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-roommates-together_23-2149103348.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-roommates-together_23-2149103348.jpg?_wi=2",
           imageAlt: "Priya Singh",
         },
         {
@@ -358,7 +358,7 @@ export default function LandingPage() {
           name: "Sanjay Kumar",
           handle: "@sanjaykumar",
           testimonial: "Dr. Jagadish is an expert in his field. His precise diagnosis made a significant difference in my treatment plan. Thank you!",
-          imageSrc: "http://img.b2bpic.net/free-photo/doctor-doing-their-work-pediatrics-office_23-2149224129.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/doctor-doing-their-work-pediatrics-office_23-2149224129.jpg?_wi=2",
           imageAlt: "Sanjay Kumar",
         },
         {
