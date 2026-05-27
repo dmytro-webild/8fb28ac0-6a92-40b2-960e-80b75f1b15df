@@ -78,7 +78,7 @@ export default function LandingPage() {
         },
         {
           name: "Deepak Singh",          handle: "@deepaksingh",          testimonial: "Impressed with the efficiency and precision of the X-Ray department. The clinic is well-maintained and very clean. Top-tier medical facility.",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-confident-businesswoman-office_329181-19343.jpg",          imageAlt: "Deepak Singh testimonial image",          rating: 5
-        },
+        }
       ]}
       avatars={[
         {
@@ -104,14 +104,14 @@ export default function LandingPage() {
       description="Pawara Diagnostic & Children Care Centre is dedicated to providing accurate diagnosis and quality healthcare services with advanced technology and compassionate patient care. We strive to provide a comfortable and supportive environment for all our patients, ensuring the highest standards of care for both diagnostics and pediatric needs."
       bulletPoints={[
         {
-          title: "Advanced Technology",          description: "Utilizing state-of-the-art diagnostic equipment for precise results.",          icon: Activity,
+          title: "Advanced Technology",          description: "Utilizing state-of-the-art diagnostic equipment for precise results.",          icon: Activity
         },
         {
-          title: "Expert Care",          description: "Experienced specialists offering compassionate and reliable healthcare.",          icon: Heart,
+          title: "Expert Care",          description: "Experienced specialists offering compassionate and reliable healthcare.",          icon: Heart
         },
         {
-          title: "Patient-Centered",          description: "Dedicated to a supportive and comfortable experience for every patient.",          icon: LifeBuoy,
-        },
+          title: "Patient-Centered",          description: "Dedicated to a supportive and comfortable experience for every patient.",          icon: LifeBuoy
+        }
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/portrait-hospital-receptionist-standing-front-desk_482257-131181.jpg"
       mediaAnimation="slide-up"
@@ -126,11 +126,11 @@ export default function LandingPage() {
       membersAnimation="slide-up"
       members={[
         {
-          id: "jagadish-pawara",          name: "Dr. Jagadish Kitaram Pawara",          imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-doctor-with-stethoscope-clinic_1303-19762.jpg",          imageAlt: "Dr. Jagadish Kitaram Pawara"
+          id: "jagadish-pawara",          name: "Dr. Jagadish Kitaram Pawara",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EJFcoUUdPOFJ0gQ1f8PqgqmcXO/uploaded-1779890424724-7b1b0u2g.jpg",          imageAlt: "Dr. Jagadish Kitaram Pawara"
         },
         {
-          id: "sheetal-pawara",          name: "Dr. Sheetal Jagadish Pawara",          imageSrc: "http://img.b2bpic.net/free-photo/healthcare-concept-clinic_23-2151117871.jpg",          imageAlt: "Dr. Sheetal Jagadish Pawara"
-        },
+          id: "sheetal-pawara",          name: "Dr. Sheetal Jagadish Pawara",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EJFcoUUdPOFJ0gQ1f8PqgqmcXO/uploaded-1779890424725-eob1ueti.jpg",          imageAlt: "Dr. Sheetal Jagadish Pawara"
+        }
       ]}
       memberVariant="card"
     />
@@ -214,7 +214,7 @@ export default function LandingPage() {
         {
           id: "5",          name: "Meena Devi",          handle: "@meenadevi",          testimonial: "My child's health improved significantly under Dr. Sheetal's care. The clinic provides a very comforting environment for children.",          imageSrc: "http://img.b2bpic.net/free-photo/doctor-little-girl-laughing_1098-392.jpg",          imageAlt: "Meena Devi"},
         {
-          id: "6",          name: "Rajesh Gupta",          handle: "@rajeshgupta",          testimonial: "The entire team is professional and caring. They make complex diagnostic procedures easy to understand and stress-free.",          imageSrc: "http://img.b2bpic.net/free-photo/female-doctor-clinic-evaluates-man-cognitive-function-reflex_482257-126970.jpg",          imageAlt: "Rajesh Gupta"},
+          id: "6",          name: "Rajesh Gupta",          handle: "@rajeshgupta",          testimonial: "The entire team is professional and caring. They make complex diagnostic procedures easy to understand and stress-free.",          imageSrc: "http://img.b2bpic.net/free-photo/female-doctor-clinic-evaluates-man-cognitive-function-reflex_482257-126970.jpg",          imageAlt: "Rajesh Gupta"}
       ]}
       title="What Our Patients Say"
       description="Hear from families and individuals who have experienced our compassionate care and accurate diagnostic services. Your health and satisfaction are our top priorities."
@@ -248,27 +248,27 @@ export default function LandingPage() {
       description="Fill out the form below to schedule your diagnostic test or pediatric consultation. We will contact you shortly to confirm your booking.\n\n**Our Address:**\nShop No. 211, M.B. Agrawal Complex,\nFirst Floor, In Front of Bus Stand,\nShirpur – 425405\n\n**Get Directions via Google Maps:**"
       inputs={[
         {
-          name: "patientName",          type: "text",          placeholder: "Patient Name",          required: true,
+          name: "patientName",          type: "text",          placeholder: "Patient Name",          required: true
         },
         {
-          name: "age",          type: "number",          placeholder: "Age",          required: true,
+          name: "age",          type: "number",          placeholder: "Age",          required: true
         },
         {
-          name: "gender",          type: "text",          placeholder: "Gender (Male/Female/Other)",          required: true,
+          name: "gender",          type: "text",          placeholder: "Gender (Male/Female/Other)",          required: true
         },
         {
-          name: "phoneNumber",          type: "tel",          placeholder: "Phone Number",          required: true,
+          name: "phoneNumber",          type: "tel",          placeholder: "Phone Number",          required: true
         },
         {
-          name: "serviceRequired",          type: "text",          placeholder: "Service Required (e.g., Sonography, Pediatric Checkup)",          required: true,
+          name: "serviceRequired",          type: "text",          placeholder: "Service Required (e.g., Sonography, Pediatric Checkup)",          required: true
         },
         {
-          name: "address",          type: "text",          placeholder: "Your Address",          required: true,
-        },
+          name: "address",          type: "text",          placeholder: "Your Address",          required: true
+        }
       ]}
       textarea={{
         name: "notesSymptoms",        placeholder: "Notes / Symptoms (Optional)",        rows: 4,
-        required: false,
+        required: false
       }}
       imageSrc="http://img.b2bpic.net/free-photo/location-symbol-street-city_23-2149764154.jpg"
       mediaAnimation="opacity"
