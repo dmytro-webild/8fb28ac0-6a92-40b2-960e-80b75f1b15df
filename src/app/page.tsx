@@ -146,58 +146,50 @@ export default function LandingPage() {
           title: "Sonography",          description: "Advanced ultrasound imaging for precise internal organ visualization.",          phoneOne: {
             imageSrc: "http://img.b2bpic.net/free-photo/ultrasound-scanning-machine-clinic_7502-8370.jpg",            imageAlt: "Sonography image 1"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/modern-ultrasound-scanner-clinic_7502-8375.jpg",            imageAlt: "Sonography image 2"},
-          imageAlt: "sonography machine ultrasound scan display"
+            imageSrc: "http://img.b2bpic.net/free-photo/modern-ultrasound-scanner-clinic_7502-8375.jpg",            imageAlt: "Sonography image 2"}
         },
         {
           title: "Doppler",          description: "Detailed blood flow studies to assess vascular conditions.",          phoneOne: {
             imageSrc: "http://img.b2bpic.net/free-photo/animation-fast-electrocardiogram-reading-display-heartbeats-are-getting-more-intense_482257-26906.jpg",            imageAlt: "Doppler image 1"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/nurse-taking-notes-x-ray-room_107420-64796.jpg",            imageAlt: "Doppler image 2"},
-          imageAlt: "sonography machine ultrasound scan display"
+            imageSrc: "http://img.b2bpic.net/free-photo/nurse-taking-notes-x-ray-room_107420-64796.jpg",            imageAlt: "Doppler image 2"}
         },
         {
           title: "Digital X-Ray",          description: "High-resolution digital X-rays for skeletal and chest imaging.",          phoneOne: {
             imageSrc: "http://img.b2bpic.net/free-photo/smiling-female-patient-having-abdomen-mri-scan-with-supervision-radiologist-hospital_637285-432.jpg",            imageAlt: "Digital X-Ray image 1"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/young-hispanic-doctor-man-looking-xray-working-clinic_839833-10382.jpg",            imageAlt: "Digital X-Ray image 2"},
-          imageAlt: "sonography machine ultrasound scan display"
+            imageSrc: "http://img.b2bpic.net/free-photo/young-hispanic-doctor-man-looking-xray-working-clinic_839833-10382.jpg",            imageAlt: "Digital X-Ray image 2"}
         },
         {
           title: "Obstetric Scan",          description: "Comprehensive scans for maternal and fetal health during pregnancy.",          phoneOne: {
             imageSrc: "http://img.b2bpic.net/free-photo/pregnant-woman-with-smartphone_23-2147784913.jpg",            imageAlt: "Obstetric Scan image 1"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/young-woman-with-ecography-tablet_23-2147859242.jpg",            imageAlt: "Obstetric Scan image 2"},
-          imageAlt: "sonography machine ultrasound scan display"
+            imageSrc: "http://img.b2bpic.net/free-photo/young-woman-with-ecography-tablet_23-2147859242.jpg",            imageAlt: "Obstetric Scan image 2"}
         },
         {
           title: "CT Scan",          description: "Computed Tomography for detailed cross-sectional images of the body.",          phoneOne: {
             imageSrc: "http://img.b2bpic.net/free-photo/patient-ready-get-ct-scan-medium-shot_23-2149341500.jpg",            imageAlt: "CT Scan image 1"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/mature-woman-medical-technician-hand-xray-scan-hospital-xaxa_637285-509.jpg",            imageAlt: "CT Scan image 2"},
-          imageAlt: "sonography machine ultrasound scan display"
+            imageSrc: "http://img.b2bpic.net/free-photo/mature-woman-medical-technician-hand-xray-scan-hospital-xaxa_637285-509.jpg",            imageAlt: "CT Scan image 2"}
         },
         {
           title: "MRI Consultation",          description: "Expert interpretation and guidance for Magnetic Resonance Imaging results.",          phoneOne: {
             imageSrc: "http://img.b2bpic.net/free-photo/doctor-looking-ct-scan_23-2149367428.jpg",            imageAlt: "MRI Consultation image 1"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-doctor-weighing-baby_23-2149728891.jpg",            imageAlt: "MRI Consultation image 2"},
-          imageAlt: "sonography machine ultrasound scan display"
+            imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-doctor-weighing-baby_23-2149728891.jpg",            imageAlt: "MRI Consultation image 2"}
         },
         {
           title: "Pediatric Care",          description: "Specialized medical care for infants, children, and adolescents.",          phoneOne: {
             imageSrc: "http://img.b2bpic.net/free-photo/doctor-using-tablet-while-hand-is-chin_23-2148285677.jpg",            imageAlt: "Pediatric Care image 1"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-female-doctor-wearing-medical-robe-stethoscope-sitting-desk-with-medical-tools-laptop-holding-clock-looking-pointing-up-isolated-pink-wall_141793-59334.jpg",            imageAlt: "Pediatric Care image 2"},
-          imageAlt: "sonography machine ultrasound scan display"
+            imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-female-doctor-wearing-medical-robe-stethoscope-sitting-desk-with-medical-tools-laptop-holding-clock-looking-pointing-up-isolated-pink-wall_141793-59334.jpg",            imageAlt: "Pediatric Care image 2"}
         },
         {
           title: "Fast Reports",          description: "Timely and efficient delivery of diagnostic reports for quick treatment decisions.",          phoneOne: {
             imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg",            imageAlt: "Fast Reports image 1"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-roommates-together_23-2149103348.jpg",            imageAlt: "Fast Reports image 2"},
-          imageAlt: "sonography machine ultrasound scan display"
-        },
+            imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-roommates-together_23-2149103348.jpg",            imageAlt: "Fast Reports image 2"}
+        }
       ]}
       showStepNumbers={false}
       title="Our Comprehensive Services"
@@ -240,7 +232,7 @@ export default function LandingPage() {
         {
           id: "faq3",          title: "What types of pediatric services do you offer? ",          content: "We offer comprehensive pediatric care including routine check-ups, vaccinations, treatment for common childhood illnesses, and developmental assessments."},
         {
-          id: "faq4",          title: "How quickly can I get my diagnostic reports?",          content: "We strive for fast report delivery. Most routine reports are available within 24-48 hours, with urgent cases prioritized. You will be notified when your reports are ready."},
+          id: "faq4",          title: "How quickly can I get my diagnostic reports?",          content: "We strive for fast report delivery. Most routine reports are available within 24-48 hours, with urgent cases prioritized. You will be notified when your reports are ready."}
       ]}
       sideTitle="Common Questions"
       sideDescription="Find quick answers to the most frequently asked questions about our services, appointments, and procedures."
@@ -299,8 +291,8 @@ export default function LandingPage() {
             {
               label: "Services",              href: "#services"},
             {
-              label: "FAQ",              href: "#faq"},
-          ],
+              label: "FAQ",              href: "#faq"}
+          ]
         },
         {
           title: "Services",          items: [
@@ -311,8 +303,8 @@ export default function LandingPage() {
             {
               label: "Appointments",              href: "#contact"},
             {
-              label: "Reports",              href: "#services"},
-          ],
+              label: "Reports",              href: "#services"}
+          ]
         },
         {
           title: "Contact Us",          items: [
@@ -321,9 +313,9 @@ export default function LandingPage() {
             {
               label: "Get Directions",              href: "https://www.google.com/maps/search/Pawara+Diagnostic+%26+Children+Care+Centre+Shirpur"},
             {
-              label: "WhatsApp Us",              href: "https://wa.me/YOURPHONENUMBER"},
-          ],
-        },
+              label: "WhatsApp Us",              href: "https://wa.me/YOURPHONENUMBER"}
+          ]
+        }
       ]}
       copyrightText="© 2026 Pawara Diagnostic & Children Care Centre. All Rights Reserved."
     />
